@@ -106,9 +106,4 @@ sudo ./onthava.sh -v 3     # verbose mode
 ---
 
 ## License
-
-MIT License
-
-## 📄 License
-
-MIT License
+there's no License FREEEEEEEEEEEEEEEEEEEEEE
