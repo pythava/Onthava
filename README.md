@@ -29,10 +29,9 @@
 ## Usage
 
 ```bash
-git clone https://github.com/YOUR_USERNAME/onthava.git
-cd onthava
+wget https://raw.githubusercontent.com/pythava/Onthava/refs/heads/main/onthava.sh
 chmod +x onthava.sh
-sudo ./onthava.sh
+./onthava.sh
 ```
 
 ### Options
@@ -87,16 +86,6 @@ sudo ./onthava.sh -v 3     # verbose mode
 | Dependencies | `bash 4.0+`, `ps`, `tr`, `date` — all standard |
 
 ---
-
-## Directory Structure
-
-```
-onthava/
-├── onthava.sh
-├── images/
-│   └── onthava.png
-└── README.md
-```
 
 ---
 
